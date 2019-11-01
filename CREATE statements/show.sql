@@ -1,0 +1,4 @@
+CREATE TABLE Show(show_id INT CONSTRAINT show_prim PRIMARY KEY
+,show_name VARCHAR(25) NOT NULL
+	CONSTRAINT uni_show UNIQUE
+,show_time DATE NOT NULL;

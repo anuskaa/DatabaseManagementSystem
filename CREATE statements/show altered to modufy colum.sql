@@ -1,0 +1,1 @@
+ALTER TABLE show MODIFY show_time VARCHAR(25);

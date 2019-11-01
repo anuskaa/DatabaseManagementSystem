@@ -1,0 +1,18 @@
+EXPORTING
+
+Command Line:
+	D:
+	cd D:\2018-19 A CC5051NA A1 CW Courseowork 17030975 Anuska Neupane\backup
+	exp coursework1/coursework1299 file = CC5051_17090375_Anuska_Neupane.dmp
+
+
+
+IMPORITNG
+
+SQL
+
+	CREATE user importcoursework1 identified by cw;
+	GRANT dba to importcoursework;
+
+Command Line:
+	imp importcoursework1/cw fromuser=coursework1 file = CC5051_17090375_Anuska_Neupane.dmp

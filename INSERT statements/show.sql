@@ -1,0 +1,12 @@
+
+INSERT INTO Show VALUES(2,'Sparsh','19-JAN-19');
+
+INSERT INTO Show VALUES(3,'Feri','24-JAN-19');
+
+INSERT INTO Show VALUES(4,'Yuba','26-JAN-19');
+
+INSERT INTO Show VALUES(5,'Pradi','23-FEB-19');
+
+INSERT INTO Show VALUES(6,'Kavya','2-MAR-19');
+
+INSERT INTO Show VALUES(7,'Arshiya','2-AUG-19');
